@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Enemies\Scripts\Enemy1.cs">
+    <Files>
+      <File FileName="Assets\Enemies\Scripts\Enemy1.cs" Line="25" Column="16" />
+      <File FileName="C:\Users\Miguel\Desktop\Star Tress Unity\Assets\Scripts\juego\Espermatozoides.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
